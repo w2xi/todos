@@ -20,6 +20,14 @@
 - [ ] 《JavaScript高级程序设计(第四版)》
 - [ ] 《图解HTTP》
 
+## 代码规范
+
+- [ ] [clean-code-javascript - 代码整洁之道](https://github.com/ryanmcdermott/clean-code-javascript)
+
+## 源码
+
+- [ ] [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+
 ## 实战
 
 - [ ] 一个基于 Vue + ElementUI 的后台模板 ( 模仿 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) )
