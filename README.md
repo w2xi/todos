@@ -20,9 +20,10 @@
 - [ ] 《JavaScript高级程序设计(第四版)》
 - [ ] 《图解HTTP》
 
-## 代码规范
+## 规范
 
 - [ ] [clean-code-javascript - 代码整洁之道](https://github.com/ryanmcdermott/clean-code-javascript)
+- [ ] [Angular提交信息规范](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit)
 
 ## 源码
 
@@ -31,5 +32,10 @@
 ## 实战
 
 - [ ] 一个基于 Vue + ElementUI 的后台模板 ( 模仿 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) )
+
+## 工具
+
+- [ ] [commitlint](https://github.com/conventional-changelog/commitlint): 检验提交信息
+- [ ] [husky](https://github.com/typicode/husky): Git hooks
 
 
