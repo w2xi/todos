@@ -23,7 +23,8 @@
 ## 规范
 
 - [ ] [clean-code-javascript - 代码整洁之道](https://github.com/ryanmcdermott/clean-code-javascript)
-- [ ] [Angular提交信息规范](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit)
+- [x] [Angular提交信息规范](https://github.com/angular/angular/blob/master/CONTRIBUTING.md#commit) 
+    > blog: [commitlint + husky 规范git提交信息](https://w2xi.github.io/2022/03/06/commitlint-husky-%E8%A7%84%E8%8C%83git%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF/)
 
 ## 源码
 
@@ -35,7 +36,7 @@
 
 ## 工具
 
-- [ ] [commitlint](https://github.com/conventional-changelog/commitlint): 检验提交信息
-- [ ] [husky](https://github.com/typicode/husky): Git hooks
+- [x] [commitlint](https://github.com/conventional-changelog/commitlint): 检验提交信息
+- [x] [husky](https://github.com/typicode/husky): Git hooks
 
 
