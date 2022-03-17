@@ -13,8 +13,8 @@
 
 ## 书籍
 
-- [x] 《JavaScipt语言精粹(修订版)》
-- [ ] 《你不知道的JavaScript(上卷)》
+- [x] 《JavaScipt语言精粹(修订版)》[总结](https://w2xi.github.io/2022/02/01/JavaScript%E8%AF%AD%E8%A8%80%E7%B2%BE%E7%B2%B9-%E6%80%BB%E7%BB%93/)
+- [x] 《你不知道的JavaScript(上卷)》
 - [ ] 《你不知道的JavaScript(中卷)》
 - [ ] 《你不知道的JavaScript(下卷)》
 - [ ] 《JavaScript高级程序设计(第四版)》
